@@ -5,14 +5,14 @@ Aquí encontrarás el proyecto de Inteligencia Artificial **FlixGenAI**, un sist
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Banner
-![Banner del Proyecto FlixGenAI](https://raw.githubusercontent.com/Jeymar06/ProyectoIA/refs/heads/main/Banner.png)
+![Banner del Proyecto FlixGenAI]([https://raw.githubusercontent.com/Jeymar06/ProyectoIA/refs/heads/main/Banner.png](https://github.com/JeffreyHernandez8656/proyectoIA/blob/main/Banner.jpeg))
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Autores
 
-* Jeider Torres Martínez - 2201431
-* Marcos José Orjuela Murillo - 2225506
+* Nestor Jeffrey Hernandez Ruiz - 2215108
+* Juan carlos Arias Gonzalez - 2225007
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
