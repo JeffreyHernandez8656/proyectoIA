@@ -5,7 +5,7 @@ Aquí encontrarás el proyecto de Inteligencia Artificial **FlixGenAI**, un sist
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Banner
-![Banner del Proyecto FlixGenAI]([https://raw.githubusercontent.com/Jeymar06/ProyectoIA/refs/heads/main/Banner.png](https://github.com/JeffreyHernandez8656/proyectoIA/blob/main/Banner.jpeg))
+![Banner del Proyecto FlixGenAI]([https://github.com/JeffreyHernandez8656/proyectoIA/blob/main/Banner.jpeg])
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
