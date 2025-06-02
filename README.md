@@ -58,7 +58,7 @@ Aquí encontrarás el proyecto de Inteligencia Artificial **FlixGenAI**, un sist
 * Distribución de Outliers: Clásica presenta más valores atípicos.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ##Conclusión
-El proyecto desarrolló un modelo para clasificar géneros musicales basado en características de audio. Random Forest mostró el mejor rendimiento (MAE = 10.07, precisión = 0.90). Las técnicas de reducción de dimensionalidad ayudaron a visualizar agrupaciones naturales entre géneros, revelando tanto similitudes como diferencias significativas, útiles para futuras aplicaciones como sistemas de recomendación.
+* El proyecto desarrolló un modelo para clasificar géneros musicales basado en características de audio. Random Forest mostró el mejor rendimiento (MAE = 10.07, precisión = 0.90). Las técnicas de reducción de dimensionalidad ayudaron a visualizar agrupaciones naturales entre géneros, revelando tanto similitudes como diferencias significativas, útiles para futuras aplicaciones como sistemas de recomendación.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ##Enlaces del Proyecto
 * **Notebook:** [[Link al Notebook en Google Colab o Drive](https://github.com/JeffreyHernandez8656/proyectoIA/blob/main/proyectoia_Juan_Nestor.ipynb)]
